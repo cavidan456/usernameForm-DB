@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+
+header{
+    width: 1540px;
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: 0 0 10px black;
+
+}
+.navLogo{
+    display: flex;
+    justify-content: space-between;
+    gap: 35px;
+}
+
+.coursesText{
+    text-align: center;
+}
+
+#oursesData img {
+    width: 100%;
+}
